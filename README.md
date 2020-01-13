@@ -4,5 +4,5 @@
 
 ## Try
 ```
-docker run --rm -it -p 8080:8080 ks126/code-alpine
+docker run --rm -it -p 8080:8080 quay.io/ks126/code-alpine
 ```
